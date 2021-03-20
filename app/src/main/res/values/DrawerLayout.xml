@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DrawerLayout">
+        <attr name="interpolator">
+            <enum name="AccelerateDecelerateInterpolator" value="0"/>
+            <enum name="AnticipateInterpolator" value="1"/>
+            <enum name="BounceInterpolator" value="2"/>
+            <enum name="AnticipateOvershootInterpolator" value="3"/>
+            <enum name="OvershootInterpolator" value="4"/>
+            <enum name="LinearInterpolator" value="5"/>
+            <enum name="DecelerateInterpolator" value="6"/>
+            <enum name="AccelerateInterpolator" value="7"/>
+        </attr>
+    </declare-styleable>
+</resources>

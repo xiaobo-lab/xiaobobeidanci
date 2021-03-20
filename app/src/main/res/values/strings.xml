@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">小波背单词</string>
+    <string name="input_hint">组数</string>
+    <string name="load_button">加载</string>
+    <string name="shuffle_button">打乱</string>
+    <string name="advance_button">高级</string>
+    <string name="delay_edit_text_string">延迟(单位:秒)</string>
+    <string name="play">播放</string>
+    <string name="stop">暂停</string>
+    <string name="resume">继续</string>
+    <string name="cancel">结束</string>
+    <string name="gap_edit_text_string">单词上下间距</string>
+    <string name="confirm">确定</string>
+    <string name="vocabulary_tip">词汇书:</string>
+    <string name="show_words_count">总词数:%d</string>
+    <string name="show_group_count">总组数:%d</string>
+    <string name="show_stared_count">收藏词数:%d</string>
+    <string name="tip_gap">请适当调大以下数值</string>
+    <string name="progress_text_view">进度:%d%%</string>
+    <string name="update_tips">检测到新版本，正在更新中，请稍后</string>
+</resources>
